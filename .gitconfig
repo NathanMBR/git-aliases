@@ -1,0 +1,9 @@
+[alias]
+	co = checkout
+	cm = checkout master
+	cd = checkout development
+	cb = checkout -b
+	rb = reset --mixed HEAD~1
+	rbh = reset --hard HEAD~1
+	lg = log --oneline
+    a = add .
