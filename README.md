@@ -1,3 +1,3 @@
-# My Git Aliases
+# My Git aliases
 
-These are the Git Aliases I use while coding.
+These are the Git aliases I use while coding.
