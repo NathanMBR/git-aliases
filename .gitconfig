@@ -6,4 +6,4 @@
 	rb = reset --mixed HEAD~1
 	rbh = reset --hard HEAD~1
 	lg = log --oneline
-    a = add .
+    	a = add .
