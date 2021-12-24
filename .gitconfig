@@ -1,11 +1,10 @@
 [alias]
 	co = checkout
-	cm = checkout master
-	cd = checkout development
 	cb = checkout -b
-	rm = reset --mixed
-	rh = reset --hard
+	rsm = reset --mixed
+	rsh = reset --hard
 	rb = reset --mixed HEAD~1
 	rbh = reset --hard HEAD~1
 	lg = log --oneline
-    	a = add .
+	a = add .
+	cm = commit -m
