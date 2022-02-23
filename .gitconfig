@@ -1,6 +1,8 @@
 [alias]
 	co = checkout
 	cb = checkout -b
+	com = checkout master
+	cod = checkout development
 	rsm = reset --mixed
 	rsh = reset --hard
 	rb = reset --mixed HEAD~1
@@ -8,3 +10,6 @@
 	lg = log --oneline
 	a = add .
 	cm = commit -m
+	p = push
+	pm = push -u origin master
+	pd = push -u origin development
