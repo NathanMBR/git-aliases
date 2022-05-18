@@ -13,3 +13,4 @@
 	p = push
 	pm = push -u origin master
 	pd = push -u origin development
+	md = merge development
